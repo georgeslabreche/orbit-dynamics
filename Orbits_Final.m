@@ -80,7 +80,7 @@ global c1 c2 c3
 global We Long_G0
 
 % Choose how many orbits we want to simulate
-NO = 4; % CHANGE NUMBER OF ORBITS HERE.
+NO = 10; % CHANGE NUMBER OF ORBITS HERE.
 
 MUe = 398600.4;
 c1 = [1 0 0];
