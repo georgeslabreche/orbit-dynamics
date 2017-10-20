@@ -14,7 +14,7 @@ After having written a matlab code that performs the integration of the equation
 |  𝑖   | 47.2 |   7   |   10    |   63.4  |    43   |  53.7 |
 |  Ω   | 30  |   10  |   30    |   180   |    195  |  145.5 |
 |  𝜔   |  45 |   5   |   325   |   270   |  270    |   52.4 |
-|  𝑀  |70   |  250  |   300   |   90    |   305   |  -37.3 |
+|  𝑀  |  70 |  250  |   300   |   90    |   305   |  -37.3 |
 
 Set the simulation in such way that at time 𝑡<sub>0</sub>=0 the position of the satellite in the orbit is given by the mean anomaly 𝑀 in the last row of the table. Calculate the initial position and velocity of the satellite and integrate its motion for 10 orbital periods. Plot the trajectory of the spacecraft around the Earth and the behavior of the orbital parameters during the simulation time. Provide comments on all the figures and give a physical interpretation even in relation of the kind of orbit that you are analyzing.
 
