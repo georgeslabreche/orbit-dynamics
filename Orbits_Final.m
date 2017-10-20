@@ -3,12 +3,12 @@
 %                    Lulea University of Technology                       %
 %                      Teacher: Leonard Felicetti                         %
 %------------------------------------------------------------------------%%
-%                      Assignment 2: Orbit Dynamics                       % 
+%                      Assignment 2: Orbit Dynamics                       %
 %%-----------------------------------------------------------------------%%
-%             Students: Georges Labreche and Natalie Lawton               %  
+%             Students: Georges Labreche and Natalie Lawton               %
 %%-----------------------------------------------------------------------%%
 
-% Clean up environemtn before starting.
+% Clean up environment before starting.
 clear all 
 close all
 clc
